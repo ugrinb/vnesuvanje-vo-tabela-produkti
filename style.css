@@ -1,0 +1,12 @@
+.coolTitle{
+	color: red;
+	font-size: 33px;
+}
+.done{
+	color: blue;
+	font-size: 33px;
+	text-decoration: line-through;
+}
+.tabela{
+	border-width: solid red 2px;
+}
